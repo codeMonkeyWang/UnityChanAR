@@ -1,17 +1,19 @@
-Unity-Chan "Candy Rock Star" Public Repository
+Unity-Chan 的AR展示
 ----------------------------------------------
 
 ![Screenshot][Screenshot]
 
-[Web Player Demo][WebPlayer] / [Watch on YouTube][YouTube]
+项目的资源文件来自于[这个开源项目](https://github.com/unity3d-jp/unitychan-crs)
 
-- See [README_EN.txt][Readme EN] for further information.
-- 日本語の説明は[README_JP.txt][Readme JP]をご覧ください。
-- 技術的な解説は[Wiki][Wiki]をご覧ください。
+## 功能列表
+**2016-09-09 V0.1：**
+
+* 通过`身份证背面图案`可以显示`Unity娘`跳舞的模型。
+* 通过`北京公交卡正面`可以呼出音乐及与音乐相关的UI界面。
+	* 向前后推动公交卡，可以音量大小会随之变化。
+* 通过`北京公交卡背面` 可以关闭音乐。
+
 
 [Screenshot]: http://unity-chan.com/blog/wp-content/uploads/2014/08/uniteinthesky_ss.jpg
-[WebPlayer]:  http://unity-chan.com/events/c86/WebPlayer/
-[YouTube]:    https://www.youtube.com/watch?v=M_GUlXJ52YA
-[Readme JP]:  https://github.com/unity3d-jp/unitychan-crs/blob/master/README_JP.txt
-[Readme EN]:  https://github.com/unity3d-jp/unitychan-crs/blob/master/README_EN.txt
-[Wiki]:       https://github.com/unity3d-jp/unitychan-crs/wiki
+
+
