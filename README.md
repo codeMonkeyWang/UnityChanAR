@@ -2,7 +2,7 @@ Unity-Chan 的AR展示
 ----------------------------------------------
 
 ![Screenshot][Screenshot]
-<embed src='http://player.youku.com/player.php/sid/XMTcyMDE2MTg4OA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+
 
 项目的资源文件来自于[这个开源项目](https://github.com/unity3d-jp/unitychan-crs)
 
