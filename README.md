@@ -3,6 +3,7 @@ Unity-Chan 的AR展示
 
 ![Screenshot][Screenshot]
 
+[![视频展示](1.jpg)](http://v.youku.com/v_show/id_XMTcyMDE2MTg4OA==.html?beta&#paction)
 
 项目的资源文件来自于[这个开源项目](https://github.com/unity3d-jp/unitychan-crs)
 
